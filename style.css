@@ -1,0 +1,37 @@
+body{
+    background-size:cover ;
+}
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 25px;
+    letter-spacing: 3px;
+    box-shadow: 0px 10px grey;
+
+}
+
+#start{
+    margin-top: 20px;
+    font-size: 20px;
+    width: 15%;
+}
+
+#num_of_object , #status{
+    font-size: 18px;
+}
+
+.footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    line-height: 20px;
+}
+canvas{
+    border: 5px solid black;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: -5px -10px 5px rgb(12, 167, 206);
+}
